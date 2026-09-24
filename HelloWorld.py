@@ -5,4 +5,4 @@ person = "Generate content for python"
 
 for i in range(10):
     print(person)
-    print("A")
+    print("B")
